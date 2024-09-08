@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Vikash dsa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Chai aur Js"
+	}
+}
